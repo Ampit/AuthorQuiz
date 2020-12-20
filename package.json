@@ -1,6 +1,7 @@
 {
   "name": "author-quiz",
   "version": "0.1.0",
+  "author": "Amarpreet Singh",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
